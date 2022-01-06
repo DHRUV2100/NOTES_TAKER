@@ -1,4 +1,4 @@
-console.log("WELCOME TO NOTES APP");
+console.log("WELCOME TO NOTES APP:-");
 showNotes();//function for making the card doc which displays the notes
 
 var elem = document.querySelector("#btn");//button
